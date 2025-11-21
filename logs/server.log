@@ -1,0 +1,58 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [152] using StatReload
+INFO:     Started server process [154]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:34382 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:41762 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41762 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41792 - "OPTIONS /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41800 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41804 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41800 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41804 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41806 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41806 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45794 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45794 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45794 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45794 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45808 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45810 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45808 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45810 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45810 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45810 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34192 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34192 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34192 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34198 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34192 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34198 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34192 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34198 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34200 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34198 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34198 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34200 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34198 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34200 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34198 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34238 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34198 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34238 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34238 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34238 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34238 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34238 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:56040 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34238 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34238 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34238 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34238 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34238 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34238 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34238 - "GET /analytics/summary HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34238 - "POST /events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34238 - "GET /analytics/summary HTTP/1.1" 200 OK
